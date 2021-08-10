@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html">
+  <title>Presidency College|Motbung|New|Admission|Resgitration  </title>
+  <meta name="author" content="Jake Rocheleau">
+  <link rel="shortcut icon" href="http://static.tmimgcdn.com/img/favicon.ico">
+  <link rel="icon" href="http://static.tmimgcdn.com/img/favicon.ico">
+  <link rel="stylesheet" type="text/css" media="all" href="css/styles.css">
+  <link rel="stylesheet" type="text/css" media="all" href="css/switchery.min.css">
+  <script type="text/javascript" src="js/switchery.min.js"></script>
+<style>
+  #content-desktop {display: block;}
+#content-mobile {display: none;}
+
+@media screen and (max-width: 768px) {
+
+#content-desktop {display: none;}
+#content-mobile {display: block;}}
+</style>
+</head>
+
+<body>
+  <div id="content-mobile">
+  <img style="margin-left: 160px;" height="150px" width="150px" src="https://presidencycollegemotbung.ac.in/wp-content/uploads/2021/07/cropped-psc_logo-1.png" />
+  </div>
+  <div id="content-desktop">
+    <img style="margin-left: 800px;" height="200px" width="200px" src="https://presidencycollegemotbung.ac.in/wp-content/uploads/2021/07/cropped-psc_logo-1.png" />
+    </div>
+  <div id="wrapper">
+  
+  <h1>Presidency College Online Registration 2021-22</h1>
+  
+  <form action="next_page.php" method="POST">
+  <div class="col-2">
+    <label>
+      Name
+      <input required placeholder="What is your full name?" id="name" name="full_name" tabindex="1">
+    </label>
+  </div>
+  <div class="col-2">
+    <label>
+     Date of Birth
+      <input required type="date" placeholder="Date of Birth" id="company" name="dob" tabindex="2">
+    </label>
+  </div>
+  
+  <div class="col-3">
+    <label>
+      Phone Number
+      <input required placeholder="What is the best # to reach you?" id="phone" name="phno" tabindex="3">
+    </label>
+  </div>
+  <div class="col-3">
+    <label>
+      Email
+      <input required placeholder="What is your e-mail address?" id="email" name="email" tabindex="4">
+    </label>
+  </div>
+  <div class="col-3">
+    <label>
+      Gender
+      <select required name="gender" tabindex="5">
+        <option value="male">Male</option>
+        <option value="female">Female</option>
+        <option value="others">Others</option>
+      </select>
+    </label>
+  </div>
+  <div class="col-3">
+    <label>
+      Category
+      <select required name="category" tabindex="5">
+        <option value="general">General</option>
+        <option value="ST">ST</option>
+        <option value="SC">SC</option>
+        <option value="OBC">OBC</option>
+      </select>
+    </label>
+  </div>
+  
+  <div class="col-4">
+    <label>
+      Father name
+      <input required placeholder="Father/Guardian name" id="skills" name="father_name" tabindex="6">
+    </label>
+  </div>
+  <div class="col-4">
+    <label>
+      Mother name
+      <input required placeholder="Mother name" id="skills" name="mother_name" tabindex="6">
+    </label>
+  </div>
+  <div class="col-4">
+    <label>
+   Parents Contact Number
+      <input required placeholder="Parents Contact number" id="skills" name="parents_contact" tabindex="6">
+    </label>
+  </div>
+
+  <div class="col-4">
+    <label>
+  Parents Occupation
+      <input required placeholder="Parents Occupation" id="skills" name="parents_occupation" tabindex="6">
+    </label>
+  </div>
+  <div class="col-4">
+    <label>
+      Permanent Address
+      <input required placeholder="Permanent Address" id="experience" name="permanent_address" tabindex="7">
+    </label>
+  </div>
+  <div class="col-3">
+    <label>
+      State
+      <select required name="state" tabindex="5">
+        <option value="Manipur">Manipur</option>
+        <option value="Andhra Pradesh">Andhra Pradesh</option>
+        <option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
+        <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+        <option value="Assam">Assam</option>
+        <option value="Bihar">Bihar</option>
+        <option value="Chandigarh">Chandigarh</option>
+        <option value="Chhattisgarh">Chhattisgarh</option>
+        <option value="Dadar and Nagar Haveli">Dadar and Nagar Haveli</option>
+        <option value="Daman and Diu">Daman and Diu</option>
+        <option value="Delhi">Delhi</option>
+        <option value="Lakshadweep">Lakshadweep</option>
+        <option value="Puducherry">Puducherry</option>
+        <option value="Goa">Goa</option>
+        <option value="Gujarat">Gujarat</option>
+        <option value="Haryana">Haryana</option>
+        <option value="Himachal Pradesh">Himachal Pradesh</option>
+        <option value="Jammu and Kashmir">Jammu and Kashmir</option>
+        <option value="Jharkhand">Jharkhand</option>
+        <option value="Karnataka">Karnataka</option>
+        <option value="Kerala">Kerala</option>
+        <option value="Madhya Pradesh">Madhya Pradesh</option>
+        <option value="Maharashtra">Maharashtra</option>
+        <option value="Meghalaya">Meghalaya</option>
+        <option value="Mizoram">Mizoram</option>
+        <option value="Nagaland">Nagaland</option>
+        <option value="Odisha">Odisha</option>
+        <option value="Punjab">Punjab</option>
+        <option value="Rajasthan">Rajasthan</option>
+        <option value="Sikkim">Sikkim</option>
+        <option value="Tamil Nadu">Tamil Nadu</option>
+        <option value="Telangana">Telangana</option>
+        <option value="Tripura">Tripura</option>
+        <option value="Uttar Pradesh">Uttar Pradesh</option>
+        <option value="Uttarakhand">Uttarakhand</option>
+        <option value="West Bengal">West Bengal</option>
+      </select>
+    </label>
+  </div>
+  <div class="col-4">
+    <label>
+      Pin Code
+      <input required placeholder="Pin Code" id="experience" name="pin_code" tabindex="7">
+    </label>
+  </div>
+  <div class="col-3">
+    <label>
+      District
+      <select required name="district" tabindex="5">
+        <option value="Kangpokpi">Kangpokpi
+        </option>
+        <option value="Bishnupur">Bishnupur</option>
+        <option value="Chandel">Chandel</option>
+        <option value="Churachandpur">Churachandpur</option>
+        <option value="Imphal East">Imphal East</option>
+        <option value="Imphal West">Imphal West</option>
+        <option value="Jiribam">Jiribam</option>
+        <option value="Kakching">Kakching</option>
+        <option value="Kamjong">Kamjong</option>
+        <option value="Noney">Noney</option>
+        <option value="Pherzawl">Pherzawl</option>
+        <option value="Senapati">Senapati</option>
+        <option value="Tamenglong">Tamenglong</option>
+        <option value="Tengnoupal">Tengnoupal</option>
+        <option value="Thoubal">Thoubal</option>
+        <option value="Ukhrul">Ukhrul</option>
+
+      </select>
+    </label>
+   
+  </div>
+  </div>
+  
+  <div class="col-submit">
+    <button type="submit" name="submit" class="submitbtn">Proceed Next</button>
+  </div>
+  
+  </form>
+  </div>
+<script type="text/javascript">
+var elems = Array.prototype.slice.call(document.querySelectorAll('.js-switch'));
+
+elems.forEach(function(html) {
+  var switchery = new Switchery(html);
+});
+</script>
+</body>
+</html>
